@@ -1,3 +1,3 @@
 # SHOE STORE
 one page website
-https://rutujabairagi99.github.io/shoe/Shoe_Store/#products Shoe_store
+https://rutujabairagi99.github.io/SHOE-STORE/Shoe_Store/
